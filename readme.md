@@ -1,4 +1,4 @@
-# Assignment 2 - Dice Game
+# Dice Game
 
 ## Introduction
 In this assignment the Markov Decision Process (MVP) has been used to determine the optimal policy for playing a dice game. The optimal policy is a mapping of states to actions, giving the optimal action which should be taken when in each state to give the maximum score.
